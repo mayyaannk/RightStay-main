@@ -2,7 +2,10 @@ import React from 'react'
 
 const mayank = () => {
   return (
-    <div>mayank</div>
+    <div>mayank
+        <h1>dsgsdgg</h1>
+    </div>
+    
   )
 }
 
